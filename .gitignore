@@ -1,0 +1,12 @@
+*.o
+*.ko
+*.mod.c
+*.order
+*.symvers
+.tmp_versions/
+*.bin
+*.elf
+*.list
+Debug/
+Release/
+.metadata/

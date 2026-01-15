@@ -35,7 +35,7 @@ This project is designed to showcase **real‑world embedded systems concepts** 
 +-------------------+                   +-------------------------+
 ```
 
-## 🔌 Hardware Requirements
+##  Hardware Requirements
 
 * **STM32 Blue Pill (STM32F103C8)** or compatible STM32 MCU
 * USB‑to‑UART adapter (FTDI / CP2102)
